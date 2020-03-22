@@ -1,4 +1,4 @@
-# socket-reading-and-writing
+# socket-tcp-client-server
 ###### 网络编程实战第五讲缓冲区实验代码
 ###### 别人的代码
 
